@@ -68,7 +68,7 @@ body {
     display: inline-block;
     padding: 1em 2em;
   
-    background-color: #FDF;
+    background-color: #ccccff;
   }
   
   .align-left {
@@ -80,9 +80,9 @@ body {
   }
   
   .title {
-    background-color: #3ca9ee;
+    background-color: #61bdee;
     border: solid black;
-    box-shadow: 6px 6px 0px #dfa693;
+    box-shadow: 6px 6px 0px #ff6238;
     display: inline-block;
     padding: 0em 2em;
   }
@@ -169,7 +169,7 @@ body {
   
     border: solid black;
   
-    box-shadow: 6px 6px 0px #F5A9B8;
+    box-shadow: 6px 6px 0px #ff6238;
   }
   
   .embeddable-buttondown-form input {
