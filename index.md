@@ -1,18 +1,10 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>2na3k@site</title>
-  <link rel="stylesheet" href="css/font.css" />
-  <link rel="stylesheet" href="css/style.css" />
-  <link rel="manifest" href="/site.webmanifest">
-</head>
+---
+layout: default
+title: start
+---
 
 <body>
   <div class="content">
-    
     <div class="center">
       <div class="title monospace">
         <h1>2na3k@site&gt;<span class="blink">|</span></h1>
@@ -32,7 +24,6 @@
         <p><a href="https://lichess.org/@/tle2001">chess</a></p>
       </div>
     </div>
-
     <div class="center">
       <div class="contact">
         <h2 class="monospace">@bout</h2>
@@ -44,9 +35,5 @@
         </p>
       </div>
     </div>
-
-
   </div>
 </body>
-
-</html>
