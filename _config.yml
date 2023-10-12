@@ -1,2 +1,4 @@
 name: 2na3k@site
 markdown: kramdown
+plugins:
+ - jekyll-latex
