@@ -96,6 +96,10 @@ body {
   .home-column {
     margin: 1em;
   }
+
+  .nav-bar {
+    padding: 1em
+  }
   
   /*
    * TODO: accessibility: https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion
